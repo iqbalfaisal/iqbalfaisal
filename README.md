@@ -13,9 +13,9 @@
 
 
 - 👨🏽‍💻 I’m currently working as [Full Stack Developer](https://www.mongodb.com/mern-stack);
-- 🌱 I’m currently learning Continous Integration(CircleCI); 
+- 🌱 I’m currently learning CI/CD; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Software engineering;
+- ⚡️ Fun-Fact: I have a degree in Software Engineering;
 
 
 <img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
