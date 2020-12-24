@@ -18,8 +18,6 @@
 - ⚡️ Fun-Fact: I have a degree in Software Engineering;
 
 
-<img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png"></code>
