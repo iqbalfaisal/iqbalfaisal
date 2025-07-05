@@ -1,16 +1,17 @@
 ### Hi Everyone 👋
 
-Hi. I'm Faisal, a senior software engineer (+4 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
+Hi, I'm Faisal — a Senior Frontend Developer with over 7 years of experience building modern, high-quality web and mobile applications.
 
 <img align="right" alt="GIF" src="https://github.com/iqbalfaisal/iqbalfaisal/blob/main/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I've been working as a Front-End Developer(React.js & React-Native).
-- 🌱 I'm currently focusing on open source contribution.
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Software Engineering;
-- 📫 How to reach me: 7faisaliqbal@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Dev motto: `First do it, then do it right, then do it better.`
+- 💻 I specialize in crafting responsive, intuitive user interfaces using **JavaScript (TypeScript), React.js, React Native, and Vue.js**  
+- 🚀 I’m passionate about creating seamless digital experiences that are fast, accessible, and user-friendly  
+- 🌱 Currently diving deeper into **open-source contributions** and exploring new frontend technologies  
+- 💬 Always open to collaboration, knowledge-sharing, or a good tech conversation—just ask!  
+- 🎓 I hold a degree in **Software Engineering**  
+- 📫 Reach me at: **7faisaliqbal@gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Favorite motto: *“First do it, then do it right, then do it better.”*
 
 ### Languages and Tools:
 
